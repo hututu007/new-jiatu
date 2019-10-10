@@ -1,0 +1,11 @@
+build/*.js
+config/*.js
+src/assets
+src/components
+src/views
+src/router
+src/utils/*.js
+src/api/*.js
+src/store/*.js
+src/GeoUtils.js
+
